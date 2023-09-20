@@ -22,7 +22,7 @@
  */
 
 const { Clonable, defaultContainer } = require('@nlpjs/core');
-const Recognizers = require('@microsoft/recognizers-text-suite');
+const Recognizers = require('./recognizers-text-suite.umd');
 const BuiltinDictionary = require('./builtin-dictionary.json');
 const BuiltinInverse = require('./builtin-inverse.json');
 
