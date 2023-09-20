@@ -1,29 +1,13 @@
 {
-  "name": "@thomaselliott/nlp.js",
+  "name": "@thomaselliott/builtin-microsoft",
   "version": "4.27.0",
   "description": "Builtin Named Entity Recognition with Microsoft Recognizers",
-  "author": {
-    "email": "opensource@axa.com",
-    "name": "Jesus Seijas"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thomaselliott/nlp.js.git"
+    "url": "git+https://github.com/thomaselliott/nlp.js.git"
   },
-  "bugs": {
-    "url": "https://github.com/thomaselliott/nlp.js/issues"
-  },
-  "maintainers": [
-    {
-      "email": "opensource@axa.com",
-      "name": "Jesus Seijas"
-    }
-  ],
   "license": "MIT",
   "main": "src/index.js",
-  "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
-  },
   "dependencies": {
     "@nlpjs/core": "^4.26.1"
   },
