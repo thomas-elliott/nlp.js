@@ -1,6 +1,6 @@
 {
   "name": "@thomaselliott/builtin-microsoft",
-  "version": "4.26.1",
+  "version": "4.27.0",
   "description": "Builtin Named Entity Recognition with Microsoft Recognizers",
   "author": {
     "email": "opensource@axa.com",
@@ -27,5 +27,7 @@
   "dependencies": {
     "@nlpjs/core": "^4.26.1"
   },
-  "gitHead": "cc4249fa994c58d220e6f10a6c94fdad05df32fd"
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
