@@ -1,5 +1,5 @@
 {
-  "name": "@thomaselliott/builtin-microsoft",
+  "name": "@thomaselliott/nlp.js",
   "version": "4.27.0",
   "description": "Builtin Named Entity Recognition with Microsoft Recognizers",
   "author": {
